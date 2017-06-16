@@ -87,3 +87,6 @@ h4, h5 {
 .foot-style {
   background-color: #222;
 }
+button:focus {
+  outline: none;
+}
